@@ -16,6 +16,7 @@ const saveToken = async (token) => {
       
 }
 
+
 const startCli = () => {
       const args = getArgs(process.argv)
       
